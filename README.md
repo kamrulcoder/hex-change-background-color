@@ -1,4 +1,4 @@
-# Hex color Change Backgroound vinilla javascript prject 
+# [Hex color Change Backgroound vinilla javascript prject](https://kamrulcoder.github.io/hex-change-background-color/) 
 ## This is project is very simple and straightforward. but  I can learn something through this project. <br>  
 > That,s what I am learnig  new javascript content  here..........
 1. **Math.random();**
