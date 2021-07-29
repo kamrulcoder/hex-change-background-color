@@ -3,7 +3,7 @@
 > That,s what I am learnig  new javascript content  here..........
 1. **Math.random();**
 1. **Parsefloat()***
-1. For Loop 
+1. **For Loop**
 
 <br> 
 
